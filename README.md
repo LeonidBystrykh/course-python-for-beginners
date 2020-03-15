@@ -1,3 +1,3 @@
 # course-python-for-beginners
-beginners level for biology students
-This site is one minute old. Give me some time to upload my first scripts
+Beginners level for biology students
+This site is a few days old. I am the beginner in GitHub myself
