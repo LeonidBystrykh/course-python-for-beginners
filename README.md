@@ -6,3 +6,4 @@ The expected read order is:
 1. Variables_n_Functions
 2. Lists_n_loops
 3. Barchart_and_better_options added to slow down excessive use of the barcharts by student
+4. Interactive dots. Example of using jupyter widgets.  
