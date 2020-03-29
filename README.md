@@ -8,4 +8,5 @@ An order of uploads is:
 1. Variables_n_Functions
 2. Lists_n_loops
 3. Barchart_and_better_options added to slow down excessive use of the barcharts by student
-4. Interactive dots. Example of using jupyter widgets. This is a sudden turn into much later chapters on some scripts with tedious parameters optimisation lines. The interactive option can help.  
+4. Boxplot from array and list. Unexpected behaviour when data type changes
+5. Interactive dots. Example of using jupyter widgets. This is a sudden turn into much later chapters on some scripts with tedious parameters optimisation lines. The interactive option can help.  
