@@ -1,2 +1,2 @@
-Here I will put my files for the scripts. I ever started with another directory, which is a bit misleading by name, also do not remember how I made that.
+Here I will put my files for the scripts. I ever started with another directory (.github/workflows/), which is a bit misleading by name, also do not remember how I made that.
 This dir should be better in all respects.
