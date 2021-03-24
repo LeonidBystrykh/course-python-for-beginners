@@ -1,0 +1,3 @@
+The way to make a new directory from existing one is to create a new file and add directory to the name.
+That's how I made this file AND directory.
+Indeed, I will move here my other files related to plots
